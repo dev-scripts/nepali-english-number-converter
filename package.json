@@ -1,0 +1,32 @@
+{
+  "name": "nepali-english-number-converter",
+  "version": "1.0.0",
+  "description": "English to Nepali and Nepali to English number converter",
+  "main": "./src/index.js",
+  "repository": "https://github.com/dev-scripts/nepali-english-number-converter.git",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": {
+    "name": "Prakash Bhandari",
+    "email": "thebhandariprakash@gmail.com",
+    "url": "https://www.prakashbhandari.com.np"
+  },
+  "keywords": [
+    "neplai number onverter",
+    "english to nepali number converter",
+    "nepali to english numnber converter",
+    "hindu arabic to english numbner",
+    "english to hindu arabic",
+    "number converter"
+  ],
+  "bugs": {
+    "url": "https://github.com/dev-scripts/nepali-english-number-converter/issues"
+  },
+  "homepage": "https://github.com/dev-scripts/nepali-english-number-converter#readme",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^29.3.1",
+    "save-dev": "0.0.1-security"
+  }
+}
