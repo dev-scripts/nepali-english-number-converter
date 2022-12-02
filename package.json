@@ -1,6 +1,6 @@
 {
   "name": "nepali-english-number-converter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "English to Nepali and Nepali to English number converter",
   "main": "./src/index.js",
   "repository": "https://github.com/dev-scripts/nepali-english-number-converter.git",
@@ -13,12 +13,13 @@
     "url": "https://www.prakashbhandari.com.np"
   },
   "keywords": [
-    "neplai number onverter",
-    "english to nepali number converter",
-    "nepali to english numnber converter",
-    "hindu arabic to english numbner",
-    "english to hindu arabic",
-    "number converter"
+    "Nepali Number converter",
+    "English to Nepali number converter",
+    "Nepali to English number converter",
+    "Hindu Arabic to English number",
+    "English number to Hindu Arabic",
+    "Number Converter",
+    "NPM package converter English number to Nepali number"
   ],
   "bugs": {
     "url": "https://github.com/dev-scripts/nepali-english-number-converter/issues"
